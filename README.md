@@ -1,12 +1,12 @@
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=codeclode&show_icons=true&locale=en&theme=gruvbox" alt="codeclode" />
+<img align="left" src="https://github-stats.ubrong.com/api?username=codeclode&show_icons=true&locale=en&theme=gruvbox" alt="codeclode" />
 <h1 align="center">I'm codeClode</h1>
 <h3 align="center">关注向晚喵</h3>
 <h3 align="center">关注向晚喵谢谢喵</h3>
 </p>
 <br/>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=codeclode&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="codeclode"/></p>
+<p><img align="right" src="https://github-stats.ubrong.com/api/top-langs?username=codeclode&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="codeclode"/></p>
 
 - 🌱 I’m currently Reviewing **the front end**
 
